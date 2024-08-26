@@ -12,5 +12,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) application built w
 
 ## Usage
 **Adding a User:** Fill out the form and click "Add User" to add a new user to the list.
+
 **Editing a User:** Click the "Edit" button next to a user in the table, modify the details in the form, and click "Update User" to save changes.
+
 **Deleting a User:** Click the "Delete" button next to a user in the table to remove them from the list.
